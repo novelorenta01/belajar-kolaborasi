@@ -1,7 +1,4 @@
 # belajar-kolaborasi
-
-mencoba hal baru
-
-Latihan code reviewers
---
-ini di tulis oleh kontributor
+mengedit berkas README.md 1
+mengedit berkas README.md 2
+mengedit berkas README.md 3
